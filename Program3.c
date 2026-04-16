@@ -1,4 +1,7 @@
 //This code works in SEGGER which the project is intended for but not in CLion
+
+//The secret message ARM is produced because the values of the low numbers are
+//equal to the ASCII values of those letters
 #include <stdio.h>
 
 int main(void) {
